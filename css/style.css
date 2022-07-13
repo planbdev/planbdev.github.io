@@ -1611,9 +1611,31 @@ p {
     background-image: url('../imgs/clients/algar.png'); }
   .clients .clients-hofbrauhaus {
     background-image: url('../imgs/clients/hofbrouhaus.png'); }
+    .clients .clients-newholland {
+        background-image: url('../imgs/clients/newholland.png');
+    }
+    .clients .clients-renova {
+        background-image: url('../imgs/clients/renova.png');
+    }
+    .clients .clients-glambia {
+        background-image: url('../imgs/clients/glambia.png');
+    }
+    .clients .clients-itambe {
+        background-image: url('../imgs/clients/itambe.png');
+    }
+    .clients .clients-santamarcelina {
+        background-image: url('../imgs/clients/santamarcelina.png');
+    }
+    .clients .clients-superluna {
+        background-image: url('../imgs/clients/superluna.png');
+    }
+    .clients .clients-verbita {
+        background-image: url('../imgs/clients/verbita.png');
+    }
 
 .next-but-swipe, .prev-but-swipe {
-  display: none; }
+    display: none;
+}
 
 .awards {
   width: 100%;
@@ -1687,17 +1709,17 @@ p {
   margin-top: 2px;
   font-size: 12px; }
 
-  .leadership .leadership-daniel {
-    background-image: url("../imgs/leadership/daniel.jpg"); }
   .leadership .leadership-clecio {
-    background-image: url("../imgs/leadership/clecio.jpg"); }
-  .leadership .leadership-fabricio {
-    background-image: url("../imgs/leadership/fabricio.jpg"); }
+    background-image: url("../imgs/leadership/clecio.webp"); }
+  .leadership .leadership-gui {
+    background-image: url("../imgs/leadership/gui.webp"); }
   .leadership .leadership-oya {
-    background-image: url("../imgs/leadership/oya.jpg"); }
+    background-image: url("../imgs/leadership/oya.webp"); }
   .leadership .leadership-luiz {
-    background-image: url("../imgs/leadership/luiz.jpg"); }
-
+    background-image: url("../imgs/leadership/luiz.webp"); }
+    .leadership .leadership-bispo {
+        background-image: url("../imgs/leadership/bispo.webp");
+    }
 .contact {
   color: #fff;
   background-color: #292929;
@@ -1930,7 +1952,7 @@ p {
     display: inline-block;
     margin-left: -5px;
     background-position: center;
-    width: 19%;
+    width: 15%;
     height: 270px; }
 
   .leadership .leader-name {
